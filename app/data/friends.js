@@ -1,18 +1,18 @@
 var friendsArray = [
 	{
-		"name": "Frederick Acorda",
+		"name": "Ferdie",
 		"photo": "https://goo.gl/images/QbggBZ",
 		"scores": [
 			"3",
 			"3",
-			"2",
-			"1",
-			"4",
-			"1",
-			"4",
-			"2",
-			"4",
-			"4"
+			"3",
+			"3",
+			"3",
+			"3",
+			"3",
+			"3",
+			"3",
+			"3"
 		]
 	}
 
